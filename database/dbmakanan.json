@@ -1,0 +1,47 @@
+[
+    {
+        "nama_makanan": "Pisang Goreng",
+        "satuan": "Paket",
+        "harga": "12000"
+    },
+    {
+        "nama_makanan": "Ayam Taliwang",
+        "satuan": "Paket",
+        "harga": "20000"
+    },
+    {
+        "nama_makanan": "Nasi Goreng Telur",
+        "satuan": "Porsi",
+        "harga": "10000"
+    },
+    {
+        "nama_makanan": "Nasi Bakar Cumi ",
+        "satuan": "Porsi",
+        "harga": "20000"
+    },
+    {
+        "nama_makanan": "Ayam Panggang",
+        "satuan": "Paket",
+        "harga": "22000"
+    },
+    {
+        "nama_makanan": "Nasi Goreng Ikan Asin",
+        "satuan": "Porsi",
+        "harga": "11000"
+    },
+    {
+        "nama_makanan": "Ayam Goreng",
+        "satuan": "Porsi",
+        "harga": "8000"
+    },
+    {
+        "nama_makanan": "Nasi Padang",
+        "satuan": "Porsi",
+        "harga": "18000"
+    },
+    {
+        "nama_makanan": "Mie Nyinyir",
+        "satuan": "Porsi",
+        "harga": "11000"
+    }
+]

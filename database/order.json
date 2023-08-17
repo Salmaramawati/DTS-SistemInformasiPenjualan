@@ -1,0 +1,37 @@
+[
+    {
+        "nama_makanan": "Nasi Bakar Cumi ",
+        "harga": "20000",
+        "satuan": "Porsi",
+        "nama": "Salma",
+        "qty": "1"
+    },
+    {
+        "nama_makanan": "Ayam Taliwang",
+        "harga": "20000",
+        "satuan": "Paket",
+        "nama": "Zahra",
+        "qty": "3"
+    },
+    {
+        "nama_makanan": "Nasi Bakar Cumi ",
+        "harga": "20000",
+        "satuan": "Porsi",
+        "nama": "Rara",
+        "qty": "2"
+    },
+    {
+        "nama_makanan": "Nasi Padang",
+        "harga": "18000",
+        "satuan": "Porsi",
+        "nama": "Huang Yaqiong",
+        "qty": "1"
+    },
+    {
+        "nama_makanan": "Mie Nyinyir",
+        "harga": "11000",
+        "satuan": "Porsi",
+        "nama": "Chiharu Shida",
+        "qty": "2"
+    }
+]
